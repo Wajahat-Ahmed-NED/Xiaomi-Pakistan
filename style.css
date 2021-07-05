@@ -1,0 +1,19 @@
+
+nav a:hover{
+    /* color: rgb(239, 255, 241); */
+    background-color: rgb(255, 102, 102);
+}
+
+.foot a{
+    text-decoration: none;
+    color: white;
+}
+
+.does p{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.does span{
+    font-size: 0.5em;
+    font-weight: normal;
+}
